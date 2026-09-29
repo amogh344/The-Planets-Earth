@@ -13,7 +13,7 @@ tags:
   - reverse-engineering
 status: complete
 platform: VulnHub
-target: The Planets: Earth
+target: "The Planets: Earth"
 assessment_type: Controlled Lab
 date: 2026-09-30
 ---
